@@ -1,4 +1,5 @@
 # Smart-Order-Processing-Recommendation-System
+Event-Driven E-Commerce Microservices with AI-Powered Recommendations
 
 Recommended Project: "Smart Order Processing & Recommendation System" (Event-Driven E-Commerce Microservices with AI-Powered Recommendations)
 Yeh project ek mini e-commerce backend hai (focus backend pe, simple frontend optional), jahaan:
